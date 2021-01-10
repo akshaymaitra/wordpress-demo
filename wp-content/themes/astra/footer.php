@@ -3,6 +3,8 @@
  * The template for displaying the footer.
  *
  * Contains the closing of the #content div and all content after.
+ * 
+ * changed by akshay
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
@@ -13,6 +15,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
+
 
 ?>
 			<?php astra_content_bottom(); ?>
